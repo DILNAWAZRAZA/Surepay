@@ -3,6 +3,7 @@ Welcome to Nokia Surepay
 Introduction to Surepay
 Inroduction to ST
 Intoduction to configuration team
-
+Introduction to SIT
+Introduction to UAT
 
 Thank you.
